@@ -5,8 +5,8 @@ import SearchForm from '../components/SearchForm';
 function Home() {
   return (
     <main>
-      <CocktailList />
       <SearchForm />
+      <CocktailList />
     </main>
   );
 }
